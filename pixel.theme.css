@@ -1,0 +1,39 @@
+/**
+* @name pixel...
+* @version 4.2.0
+* @description A animated, cherry blossom theme.
+* @author kilo <3#9175
+* @invite zxaUAfu4
+* @website https://www.youtube.com/watch?v=dQw4w9WgXcQ
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+:root {
+--background-image: url('https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif');
+--background-image-blur: 2px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://media.giphy.com/media/ovWn8N8TVg8hi/giphy.gif?cid=ecf05e477ph2irhrpky8k28glm2brwi0g62fa2src3zl60ts&rid=giphy.gif');
+--popout-modal-blur: 2px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/Ubwm1BM.gif');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 103,58,183;
+--gradient-secondary: 63,81,181;
+--gradient-direction: 320deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 10px;
+--window-roundness: 10px;
+--scrollbar-colour: #e88fa0;
+--link-colour: #e88fa0;
+--show-gift-gif-buttons: block;
+--font: 'Whitney';
+--update-notice-1: none;
+}
